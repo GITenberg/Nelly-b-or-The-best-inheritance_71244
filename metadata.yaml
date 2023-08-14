@@ -1,0 +1,38 @@
+_repo: Nelly-b-or-The-best-inheritance_71244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71244'
+language: en
+pgterms:marc905: 20230718073600guernsey
+pgterms:marc906: '1867'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bAmerican Sunday-School Union, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Honesty -- Juvenile fiction'
+- !lcsh 'Faith -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+- !lcsh 'Irish Americans -- Juvenile fiction'
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Nelly : $b or, The best inheritance.'
+url: http://www.gutenberg.org/ebooks/71244
